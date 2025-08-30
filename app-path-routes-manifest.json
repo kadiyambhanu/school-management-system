@@ -1,0 +1,10 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/addSchool/page": "/addSchool",
+  "/api/health/route": "/api/health",
+  "/api/schools/route": "/api/schools",
+  "/api/schools/upload/route": "/api/schools/upload",
+  "/favicon.ico/route": "/favicon.ico",
+  "/page": "/",
+  "/showSchools/page": "/showSchools"
+}
